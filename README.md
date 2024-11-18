@@ -24,13 +24,13 @@
 <th>archived</th>
     </tr>
     <tr>
-      <td>neocities internet corner with @fmariezgg</td>
-      <td>my very first, humble iOS app mock-up</td>
+      <td></td>
+      <td>my neocities</td>
       <td>WRO 2024 7th Edition Managua</td>
     </tr>
     <tr>
       <td>subscription rentability calculator</td>
-      <td>hackathon Nicaragua 2024</td>
+      <td></td>
     </tr>
     <tr>
       <td>makeshift NAS to backup everything</td>
